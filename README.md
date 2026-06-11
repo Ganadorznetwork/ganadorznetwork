@@ -1,16 +1,18 @@
-## Hi there 👋
+<h2>Contact Us</h2>
 
-<!--
-**Ganadorznetwork/ganadorznetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  📧 Email:
+  <a href="mailto:emugisha385@gmail.com">emugisha385@gmail.com</a>
+</p>
 
-Here are some ideas to get you started:
+<p>
+  📞 Phone:
+  <a href="tel:+250794656903">+250794656903</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  💬 WhatsApp:
+  <a href="https://wa.me/250794656903" target="_blank">
+    Chat with us on WhatsApp
+  </a>
+</p>
