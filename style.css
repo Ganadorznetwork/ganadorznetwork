@@ -178,7 +178,26 @@ line-height:1.8;
 #contact{
 text-align:center;
 }
+.social-links{
+    display:flex;
+    justify-content:center;
+    gap:15px;
+    flex-wrap:wrap;
+}
 
+.contact-btn{
+    background:#ff9800;
+    color:white;
+    text-decoration:none;
+    padding:12px 20px;
+    border-radius:30px;
+    font-weight:bold;
+    transition:.3s;
+}
+
+.contact-btn:hover{
+    transform:scale(1.05);
+}
 footer{
 background:#111;
 text-align:center;
