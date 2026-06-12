@@ -184,3 +184,20 @@ background:#111;
 text-align:center;
 padding:20px;
 }
+.contact-btn{
+    display:block;
+    width:300px;
+    margin:15px auto;
+    padding:18px;
+    font-size:1.3rem;
+    text-decoration:none;
+    border-radius:10px;
+    background:#1e1e1e;
+    color:white;
+    transition:.3s;
+}
+
+.contact-btn:hover{
+    background:#0077ff;
+    transform:scale(1.05);
+}
