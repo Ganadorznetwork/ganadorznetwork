@@ -5,86 +5,32 @@ body {
   margin: 0;
 }
 header {
- body {
-  background-image: radial-gradient(#1a1a1a 1px, transparent 1px);
-  background-size: 20px 20px;
-}
- display: flex;
+  background-color: #111;
+  padding: 20px 60px;
+  display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px 60px;
-  background-color: #111;
-} body {
-  background-image: url('images/dd.jpg');
-  background-size: cover;
-  background-position: center;
 }
-.hero-image {
-  background-image: url('images/desa.jpg');
-  background-size: cover;
-  background-position: center;
-  width: 350px;
-  height: 400px;
-  border-radius: 20px;
-}
-header {
-  background: url('images/gear.jpg') no-repeat left center;
-  background-size: 50px;
-}
-
 nav a {
   color: #eaeaea;
   margin: 0 15px;
   text-decoration: none;
 }
-.talk-btn {
-  background-color: #fff;
-  color: #111;
-  border: none;
-  padding: 10px 20px;
-  border-radius: 20px;
+nav a:hover {
+  color: #00bfff;
 }
 .hero {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  padding: 80px 60px;
-}
-.hero-text h2 {
-  font-size: 2.5em;
-  font-weight: 600;
-}
-.hero-image img {
-  width: 300px;
-  border-radius: 10px;
-}
-.service-grid {
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-  padding: 40px;
+  background: url('images/banner.jpg') no-repeat center center/cover;
+  color: white;
+  text-align: center;
+  padding: 120px 20px;
 }
 .card {
   background-color: #1a1a1a;
   padding: 30px;
   border-radius: 15px;
-  width: 200px;
-  text-align: center;
-  color: #ccc;
+  transition: transform 0.3s;
 }
-footer {
-  text-align: center;
-  padding: 30px;
-  background-color: #111;
+.card:hover {
+  transform: scale(1.05);
 }
-.social-icons i {
-  margin: 0 10px;
-  color: #fff;
-  font-size: 20px;
-}
-html {
-  scroll-behavior: smooth;
-}
-git add .
-git commit -m "Add images folder and update CSS"
-git push origin main
