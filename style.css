@@ -184,6 +184,18 @@ text-align:center;
     gap:15px;
     flex-wrap:wrap;
 }
+.btn {
+  background-color: #25D366;
+  color: #fff;
+  padding: 12px 25px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: 0.3s;
+}
+.btn:hover {
+  background-color: #128C7E;
+}
 
 .contact-btn{
     background:#ff9800;
